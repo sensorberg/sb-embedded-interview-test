@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G32DCKR
+D Single 2-Input Positive-OR Gate
+K
+F http://www.ti.com/lit/gpn/sn74lvc1g32
+$ENDCMP
+#
+#End Doc Library

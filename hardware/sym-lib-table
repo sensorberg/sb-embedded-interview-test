@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "SN74LVC1G32DCKR")(type "Legacy")(uri "${KIPRJMOD}/components/SN74LVC1G32DCKR/KiCad/SN74LVC1G32DCKR.lib")(options "")(descr ""))
+)
