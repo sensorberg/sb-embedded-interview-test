@@ -25,4 +25,7 @@ Look at the 'main.py' file and answer the following questions
 #### 2.3 From the schematics there are 2 GPIOs used for the OR-Gate C1. Which GPIOs are used and how do you need to initialize them correctly so the LED D4 is turned off? (ignoring the fact that the OR-Gate C2 could turn it on). 
 
 ## 3. Concept
-Imagine we would like to IoT enable this device to change the colors of that RGB LED remotely via Smartphone. Draw and desribe a concept/flwo of how this could look like. What protocol would you choose? Which informations are going where? 
+You can find a WiKi page containing a User-Story as a task please find it and complete the task.
+
+
+## To answer the questions you can send an E-Mail. There is no need to interact with this repository.
